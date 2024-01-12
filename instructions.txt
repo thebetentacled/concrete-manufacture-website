@@ -1,0 +1,2 @@
+How to open the website:
+To open the website, simply double click on the file named "index.html". If it opens in notepad or another text editor, right click on the "index.html" file and select "Open With. . .". Select Google Chrome.
